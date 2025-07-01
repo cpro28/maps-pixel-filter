@@ -13,3 +13,6 @@ L.tileLayer.pixelated('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     pixelationFactor: 4 // this is default 8
 }).addTo(map);
 ```
+
+
+![alt text](example.png)
