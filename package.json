@@ -1,0 +1,29 @@
+{
+  "name": "maps-pixel-filter",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Filter that pixelates the images on leaflet maps with different resolutions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Error: no test specified'; false"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cpro28/maps-pixel-filter.git"
+  },
+  "keywords": [
+    "maps",
+    "pixel",
+    "pixelated",
+    "leaflet"
+  ],
+  "author": "cpro28",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cpro28/maps-pixel-filter/issues"
+  },
+  "homepage": "https://github.com/cpro28/maps-pixel-filter#readme",
+  "dependencies": {
+    "leaflet": "^1.9.4"
+  }
+}
